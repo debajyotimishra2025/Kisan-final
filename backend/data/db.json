@@ -1,0 +1,1095 @@
+{
+  "users": [
+    {
+      "id": "master-admin-1",
+      "name": "Master Admin",
+      "phone": "9999999999",
+      "passwordHash": "$2a$10$Rjv.KxPQcWHItBfnuW9fiu8y9aAlOrq.3J7Oa0ZkAM92a9kBP7xkG",
+      "role": "master_admin",
+      "centerId": null,
+      "staffId": "MASTER001",
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "admin-kolkata",
+      "name": "Kolkata Center Admin",
+      "phone": "9000000001",
+      "passwordHash": "$2a$10$YCJ7vJCVCZo4vMnpHkZ0PeoVDU2U59vwGB5Tx9Pig.cl6Cfjzm3jK",
+      "role": "center_admin",
+      "centerId": "center-kolkata",
+      "staffId": "KOL001",
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "admin-howrah",
+      "name": "Howrah Center Admin",
+      "phone": "9000000002",
+      "passwordHash": "$2a$10$2h1wl2WM3IBZugejptAdWOi5x3pkd1RlMLUHVWM.jr2fVa1K/1jUS",
+      "role": "center_admin",
+      "centerId": "center-howrah",
+      "staffId": "HOW001",
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "admin-durgapur",
+      "name": "Durgapur Center Admin",
+      "phone": "9000000003",
+      "passwordHash": "$2a$10$yggr54R2u3qJxfcXz5gzj.hDdRDO7dtxdJCPwNCwCmEZdLGCnGSx6",
+      "role": "center_admin",
+      "centerId": "center-durgapur",
+      "staffId": "DUR001",
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "admin-siliguri",
+      "name": "Siliguri Center Admin",
+      "phone": "9000000004",
+      "passwordHash": "$2a$10$XLg4Oyz3E0DkJenQ6o27iOMar3/dONySTOyrcg25N48jzUpPCHPXO",
+      "role": "center_admin",
+      "centerId": "center-siliguri",
+      "staffId": "SIL001",
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "admin-asansol",
+      "name": "Asansol Center Admin",
+      "phone": "9000000005",
+      "passwordHash": "$2a$10$A64L8L.F/oExUntHEhsGvOVnJTbSv.f9.d0X.t2wHrLa5jJTbNNbu",
+      "role": "center_admin",
+      "centerId": "center-asansol",
+      "staffId": "ASA001",
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "add706a9-c921-4809-8ead-f6b4039e3881",
+      "name": "fvjd vjv",
+      "phone": "9302090303",
+      "passwordHash": "$2a$10$Nevk7WvQeQGjyNi4B4U3BOrAOOXwNXqBFGPrSuEtheIzJhHE7y.Pm",
+      "role": "farmer",
+      "createdAt": "2026-09-10T09:03:39.261Z"
+    },
+    {
+      "id": "871db735-4087-487a-bd9e-4023b9ea4583",
+      "name": "wttwg",
+      "phone": "234552522",
+      "passwordHash": "$2a$10$zgWB716FdPVVNq/8tSgGI.FI7YJc5VfuuGYrzXEzAm4az9y8h5b0C",
+      "role": "farmer",
+      "createdAt": "2026-09-10T09:05:33.656Z"
+    },
+    {
+      "id": "deb74ae1-e998-42be-9998-b5ad5dd89d68",
+      "name": "jgjk",
+      "phone": "2999444444",
+      "passwordHash": "$2a$10$bYlcqio91QyhOJQkr/ICa.KRumdf884TlJ5ceiE2uYV063S2rTG4G",
+      "role": "farmer",
+      "createdAt": "2026-09-10T09:07:00.057Z"
+    },
+    {
+      "id": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "name": "jkej v3",
+      "phone": "8944972841",
+      "passwordHash": "$2a$10$7spr7AucOqEopP/P7x5PxenvQRUCehRPhKcUIHVTkExV67tcseSK.",
+      "role": "farmer",
+      "createdAt": "2026-09-10T09:57:04.833Z"
+    },
+    {
+      "id": "922a0e2b-f1ae-4adc-a86f-f59efed73a05",
+      "name": "jvbkv kefnv",
+      "phone": "8734213456",
+      "passwordHash": "$2a$10$X3owKZiFY8sLnarNytmrROnigCW4obts1HHE3koeIp8Wl/FOjwJEO",
+      "role": "farmer",
+      "createdAt": "2026-09-10T10:59:23.825Z"
+    },
+    {
+      "id": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "name": "Dev",
+      "phone": "9876543212",
+      "passwordHash": "$2a$10$M4hHdI8h8cp4WU/N6lEfmu/ySvrbt8KxYQ/HfGj6abou8X5DFtCGW",
+      "role": "farmer",
+      "createdAt": "2026-09-11T13:35:11.231Z"
+    }
+  ],
+  "crops": [
+    {
+      "id": "crop-wheat",
+      "name": "Wheat",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=600&q=80",
+      "price": 25
+    },
+    {
+      "id": "crop-rice",
+      "name": "Rice",
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+      "price": 30
+    },
+    {
+      "id": "crop-corn",
+      "name": "Corn",
+      "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=600&q=80",
+      "price": 22
+    },
+    {
+      "id": "crop-potato",
+      "name": "Potato",
+      "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=600&q=80",
+      "price": 20
+    }
+  ],
+  "centers": [
+    {
+      "id": "center-kolkata",
+      "name": "Kolkata",
+      "address": "Procurement Hub, Salt Lake, Kolkata",
+      "dailyCapacity": 24
+    },
+    {
+      "id": "center-howrah",
+      "name": "Howrah",
+      "address": "Grain Market Road, Howrah",
+      "dailyCapacity": 18
+    },
+    {
+      "id": "center-durgapur",
+      "name": "Durgapur",
+      "address": "Industrial Area, Durgapur",
+      "dailyCapacity": 18
+    },
+    {
+      "id": "center-siliguri",
+      "name": "Siliguri",
+      "address": "NH-27, Siliguri",
+      "dailyCapacity": 18
+    },
+    {
+      "id": "center-asansol",
+      "name": "Asansol",
+      "address": "GT Road, Asansol",
+      "dailyCapacity": 18
+    }
+  ],
+  "orders": [
+    {
+      "id": "3b3e8389-5a81-47b7-9eb8-45f0de80f31c",
+      "userId": "add706a9-c921-4809-8ead-f6b4039e3881",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 939,
+          "type": "loose",
+          "lineTotal": 23475
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 222,
+          "type": "loose",
+          "lineTotal": 6660
+        },
+        {
+          "cropId": "crop-corn",
+          "cropName": "Corn",
+          "pricePerKg": 22,
+          "quantity": 344,
+          "type": "loose",
+          "lineTotal": 7568
+        }
+      ],
+      "gross": 37703,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 37703,
+      "status": "rejected",
+      "createdAt": "2026-09-10T09:03:54.247Z",
+      "updatedAt": "2026-09-10T11:35:09.626Z"
+    },
+    {
+      "id": "6ba5083c-9ec2-4940-9a80-b221143ade51",
+      "userId": "871db735-4087-487a-bd9e-4023b9ea4583",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 443,
+          "type": "loose",
+          "lineTotal": 11075
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 554,
+          "type": "loose",
+          "lineTotal": 16620
+        }
+      ],
+      "gross": 27695,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 27695,
+      "status": "rejected",
+      "createdAt": "2026-09-10T09:05:43.947Z",
+      "updatedAt": "2026-09-10T11:34:15.396Z"
+    },
+    {
+      "id": "9dcdd7e6-2c30-4d4e-963c-8840d2b18968",
+      "userId": "deb74ae1-e998-42be-9998-b5ad5dd89d68",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 244,
+          "type": "loose",
+          "lineTotal": 6100
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 24,
+          "type": "loose",
+          "lineTotal": 720
+        }
+      ],
+      "gross": 6820,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 6820,
+      "status": "paid",
+      "createdAt": "2026-09-10T09:07:16.844Z",
+      "updatedAt": "2026-09-10T11:35:42.677Z"
+    },
+    {
+      "id": "4788b2d7-f1ca-495f-9144-d2c2381c7cda",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 838,
+          "type": "loose",
+          "lineTotal": 20950
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 884,
+          "type": "loose",
+          "lineTotal": 26520
+        },
+        {
+          "cropId": "crop-corn",
+          "cropName": "Corn",
+          "pricePerKg": 22,
+          "quantity": 9,
+          "type": "loose",
+          "lineTotal": 198
+        }
+      ],
+      "gross": 47668,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 47668,
+      "status": "scheduled",
+      "createdAt": "2026-09-10T09:57:22.102Z",
+      "updatedAt": "2026-09-10T09:57:27.117Z"
+    },
+    {
+      "id": "59353453-549d-464d-a7cf-2a1017c12002",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 8893,
+          "type": "loose",
+          "lineTotal": 222325
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 44,
+          "type": "loose",
+          "lineTotal": 1320
+        }
+      ],
+      "gross": 223645,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 223645,
+      "status": "scheduled",
+      "createdAt": "2026-09-10T09:57:58.366Z",
+      "updatedAt": "2026-09-10T09:58:00.333Z"
+    },
+    {
+      "id": "68931e83-731b-4c72-b013-5dbb49d348da",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 938,
+          "type": "loose",
+          "lineTotal": 23450
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 849,
+          "type": "loose",
+          "lineTotal": 25470
+        },
+        {
+          "cropId": "crop-corn",
+          "cropName": "Corn",
+          "pricePerKg": 22,
+          "quantity": 94,
+          "type": "loose",
+          "lineTotal": 2068
+        }
+      ],
+      "gross": 50988,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 50988,
+      "status": "scheduled",
+      "createdAt": "2026-09-10T09:58:46.132Z",
+      "updatedAt": "2026-09-10T09:58:49.383Z"
+    },
+    {
+      "id": "a1327d22-3ba0-49bd-8d60-22de1659866b",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 876,
+          "type": "loose",
+          "lineTotal": 21900
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 7,
+          "type": "loose",
+          "lineTotal": 210
+        }
+      ],
+      "gross": 22110,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 22110,
+      "status": "pending_slot",
+      "createdAt": "2026-09-10T15:48:20.120Z"
+    },
+    {
+      "id": "307f3930-683a-4e5f-bcfd-ebc94ff798f6",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 78,
+          "type": "loose",
+          "lineTotal": 1950
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 87,
+          "type": "loose",
+          "lineTotal": 2610
+        },
+        {
+          "cropId": "crop-corn",
+          "cropName": "Corn",
+          "pricePerKg": 22,
+          "quantity": 65,
+          "type": "loose",
+          "lineTotal": 1430
+        }
+      ],
+      "gross": 5990,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 5990,
+      "status": "scheduled",
+      "createdAt": "2026-09-10T15:58:09.094Z",
+      "updatedAt": "2026-09-10T15:58:12.909Z"
+    },
+    {
+      "id": "6cc19429-4721-4d00-925a-94be634b548e",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 84,
+          "type": "loose",
+          "lineTotal": 2100
+        }
+      ],
+      "gross": 2100,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 2100,
+      "status": "scheduled",
+      "createdAt": "2026-09-10T15:58:42.774Z",
+      "updatedAt": "2026-09-10T15:58:46.106Z"
+    },
+    {
+      "id": "2dbc6828-ba2f-4c67-a529-8c0d33a5da51",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 987,
+          "type": "loose",
+          "lineTotal": 24675
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 89,
+          "type": "loose",
+          "lineTotal": 2670
+        }
+      ],
+      "gross": 27345,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 27345,
+      "status": "rejected",
+      "createdAt": "2026-09-10T16:14:38.722Z",
+      "updatedAt": "2026-09-10T16:15:13.590Z"
+    },
+    {
+      "id": "ff946562-b17b-4b03-b758-67b1079ad83e",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 78,
+          "type": "loose",
+          "lineTotal": 1950
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 87,
+          "type": "loose",
+          "lineTotal": 2610
+        }
+      ],
+      "gross": 4560,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 4560,
+      "status": "rejected",
+      "createdAt": "2026-09-10T16:27:49.087Z",
+      "updatedAt": "2026-09-10T16:28:08.619Z"
+    },
+    {
+      "id": "d257717b-5c93-4635-a8c6-253fa7ba6958",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 748,
+          "type": "loose",
+          "lineTotal": 18700
+        }
+      ],
+      "gross": 18700,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 18700,
+      "status": "inspected",
+      "createdAt": "2026-09-10T16:30:52.536Z",
+      "updatedAt": "2026-09-10T16:31:11.952Z"
+    },
+    {
+      "id": "a8f60a70-0f91-4c66-b5f6-be62cc6c9cb5",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 4.52,
+          "type": "loose",
+          "lineTotal": 112.99999999999999
+        }
+      ],
+      "gross": 112.99999999999999,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 112.99999999999999,
+      "status": "paid",
+      "createdAt": "2026-09-10T16:42:41.302Z",
+      "updatedAt": "2026-09-10T16:43:16.330Z"
+    },
+    {
+      "id": "246c32bf-e983-4dd1-9ec6-41e70d2e2bea",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 744,
+          "type": "loose",
+          "lineTotal": 18600
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 855,
+          "type": "loose",
+          "lineTotal": 25650
+        }
+      ],
+      "gross": 44250,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 44250,
+      "status": "paid",
+      "createdAt": "2026-09-10T16:53:14.578Z",
+      "updatedAt": "2026-09-10T16:53:39.445Z"
+    },
+    {
+      "id": "51837545-71d9-43bb-958a-b98476586461",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 87,
+          "type": "loose",
+          "lineTotal": 2175
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 8998,
+          "type": "loose",
+          "lineTotal": 269940
+        },
+        {
+          "cropId": "crop-corn",
+          "cropName": "Corn",
+          "pricePerKg": 22,
+          "quantity": 87,
+          "type": "loose",
+          "lineTotal": 1914
+        }
+      ],
+      "gross": 274029,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 274029,
+      "status": "pending_slot",
+      "createdAt": "2026-09-10T16:55:29.420Z"
+    },
+    {
+      "id": "767500d4-17ca-40d3-bb85-e59c7f54b905",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 87,
+          "type": "loose",
+          "lineTotal": 2175
+        }
+      ],
+      "gross": 2175,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 2175,
+      "status": "pending_slot",
+      "createdAt": "2026-09-10T16:58:13.342Z"
+    },
+    {
+      "id": "14571c96-491a-4236-860e-ba25d7f3e1f0",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 8,
+          "type": "loose",
+          "lineTotal": 200
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 87,
+          "type": "loose",
+          "lineTotal": 2610
+        }
+      ],
+      "gross": 2810,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 2810,
+      "status": "scheduled",
+      "createdAt": "2026-09-11T13:33:32.541Z",
+      "updatedAt": "2026-09-11T13:33:35.897Z"
+    },
+    {
+      "id": "0a0ba83c-f784-482a-a396-09d9ac4cd184",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 89,
+          "type": "loose",
+          "lineTotal": 2225
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 98,
+          "type": "loose",
+          "lineTotal": 2940
+        }
+      ],
+      "gross": 5165,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 5165,
+      "status": "paid",
+      "createdAt": "2026-09-11T13:35:30.662Z",
+      "updatedAt": "2026-09-11T13:37:36.189Z",
+      "payment": {
+        "method": "upi",
+        "amount": 5165,
+        "transactionId": "KISAN-A1F212C1",
+        "paidAt": "2026-09-11T13:37:36.189Z"
+      }
+    },
+    {
+      "id": "bab4db42-5ae8-408e-85a2-e5e74e8c275b",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "items": [
+        {
+          "cropId": "crop-wheat",
+          "cropName": "Wheat",
+          "pricePerKg": 25,
+          "quantity": 833,
+          "type": "loose",
+          "lineTotal": 20825
+        },
+        {
+          "cropId": "crop-rice",
+          "cropName": "Rice",
+          "pricePerKg": 30,
+          "quantity": 855,
+          "type": "loose",
+          "lineTotal": 25650
+        },
+        {
+          "cropId": "crop-corn",
+          "cropName": "Corn",
+          "pricePerKg": 22,
+          "quantity": 565,
+          "type": "loose",
+          "lineTotal": 12430
+        }
+      ],
+      "gross": 58905,
+      "gstRate": 0,
+      "gstAmount": 0,
+      "finalAmount": 58905,
+      "status": "accepted",
+      "createdAt": "2026-09-11T14:20:49.787Z",
+      "updatedAt": "2026-09-11T14:21:10.651Z"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "170234b9-fe99-427f-b620-30ea074843df",
+      "orderId": "3b3e8389-5a81-47b7-9eb8-45f0de80f31c",
+      "userId": "add706a9-c921-4809-8ead-f6b4039e3881",
+      "centerId": "center-kolkata",
+      "date": "2026-09-11",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T09:04:01.329Z"
+    },
+    {
+      "id": "41d9306c-9ed1-4677-997d-719cd79e908b",
+      "orderId": "6ba5083c-9ec2-4940-9a80-b221143ade51",
+      "userId": "871db735-4087-487a-bd9e-4023b9ea4583",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "11:00-12:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T09:05:47.563Z"
+    },
+    {
+      "id": "908f06c2-5f86-4083-a948-ce9d13066cc4",
+      "orderId": "9dcdd7e6-2c30-4d4e-963c-8840d2b18968",
+      "userId": "deb74ae1-e998-42be-9998-b5ad5dd89d68",
+      "centerId": "center-durgapur",
+      "date": "2026-09-11",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T09:07:19.798Z"
+    },
+    {
+      "id": "c18df10b-616f-4725-a026-013c01dd9e55",
+      "orderId": "4788b2d7-f1ca-495f-9144-d2c2381c7cda",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "13:00-14:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T09:57:27.117Z"
+    },
+    {
+      "id": "e504c97f-2f55-45dd-b780-296721f47e93",
+      "orderId": "59353453-549d-464d-a7cf-2a1017c12002",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T09:58:00.333Z"
+    },
+    {
+      "id": "0d1ef746-5519-4ea6-8cee-f87c36a1f6aa",
+      "orderId": "68931e83-731b-4c72-b013-5dbb49d348da",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T09:58:49.383Z"
+    },
+    {
+      "id": "d5d51e6e-611e-4ef5-b531-25df820b1a59",
+      "orderId": "307f3930-683a-4e5f-bcfd-ebc94ff798f6",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "10:00-11:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T15:58:12.909Z"
+    },
+    {
+      "id": "6dc46c33-1f71-4d93-b896-76ed674fd713",
+      "orderId": "6cc19429-4721-4d00-925a-94be634b548e",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T15:58:46.106Z"
+    },
+    {
+      "id": "b02a8fb8-6139-43a4-ae5e-951c3b2eae55",
+      "orderId": "2dbc6828-ba2f-4c67-a529-8c0d33a5da51",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-durgapur",
+      "date": "2026-09-11",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T16:14:43.260Z"
+    },
+    {
+      "id": "091ca6f4-7163-4536-9c3c-d2dbfb904948",
+      "orderId": "ff946562-b17b-4b03-b758-67b1079ad83e",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "10:00-11:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T16:27:52.091Z"
+    },
+    {
+      "id": "0ef38551-a406-4958-a5e4-b9af718193ba",
+      "orderId": "d257717b-5c93-4635-a8c6-253fa7ba6958",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "10:00-11:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T16:30:55.767Z"
+    },
+    {
+      "id": "b8c98051-6fb2-41ba-9847-ddfae7440e25",
+      "orderId": "a8f60a70-0f91-4c66-b5f6-be62cc6c9cb5",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "13:00-14:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T16:42:46.715Z"
+    },
+    {
+      "id": "cfeac598-61cb-45d4-a3b0-8b231cdd1553",
+      "orderId": "246c32bf-e983-4dd1-9ec6-41e70d2e2bea",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-howrah",
+      "date": "2026-09-11",
+      "slot": "11:00-12:00",
+      "status": "booked",
+      "createdAt": "2026-09-10T16:53:18.193Z"
+    },
+    {
+      "id": "cf930b93-11c2-47dc-b852-4fbe30e41c49",
+      "orderId": "14571c96-491a-4236-860e-ba25d7f3e1f0",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "centerId": "center-durgapur",
+      "date": "2026-09-12",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-11T13:33:35.897Z"
+    },
+    {
+      "id": "2efc5060-09cf-4f97-b1f5-63c66d852a9c",
+      "orderId": "0a0ba83c-f784-482a-a396-09d9ac4cd184",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "centerId": "center-asansol",
+      "date": "2026-09-12",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-11T13:35:38.878Z"
+    },
+    {
+      "id": "0e52d669-69ca-4251-a020-736e59e5c6a5",
+      "orderId": "bab4db42-5ae8-408e-85a2-e5e74e8c275b",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "centerId": "center-howrah",
+      "date": "2026-09-12",
+      "slot": "09:00-10:00",
+      "status": "booked",
+      "createdAt": "2026-09-11T14:20:55.200Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "e909c916-588b-48cc-b144-6fc1e6a0ca29",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": true,
+      "createdAt": "2026-09-10T16:27:49.088Z"
+    },
+    {
+      "id": "9d4011bb-3279-4454-bf48-83bcc859f570",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": true,
+      "createdAt": "2026-09-10T16:30:52.537Z"
+    },
+    {
+      "id": "1104431d-113a-4574-8432-dda2b701fe79",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": true,
+      "createdAt": "2026-09-10T16:42:41.302Z",
+      "orderId": "a8f60a70-0f91-4c66-b5f6-be62cc6c9cb5"
+    },
+    {
+      "id": "592749d8-4761-459b-9b29-c49e15f2862f",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Inspection Completed",
+      "message": "Your crop has been inspected. Your request is now under processing.",
+      "read": true,
+      "createdAt": "2026-09-10T16:43:13.599Z",
+      "orderId": "a8f60a70-0f91-4c66-b5f6-be62cc6c9cb5",
+      "status": "inspected"
+    },
+    {
+      "id": "2a3ad3c7-0a67-47b2-8963-dc34794d9acc",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Accepted",
+      "message": "Good news! Your crop request has been accepted.",
+      "read": true,
+      "createdAt": "2026-09-10T16:43:14.861Z",
+      "orderId": "a8f60a70-0f91-4c66-b5f6-be62cc6c9cb5",
+      "status": "accepted"
+    },
+    {
+      "id": "9064c883-179f-4fc9-9430-24dfaa93201c",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Payment Completed",
+      "message": "Your payment has been completed successfully.",
+      "read": true,
+      "createdAt": "2026-09-10T16:43:16.330Z",
+      "orderId": "a8f60a70-0f91-4c66-b5f6-be62cc6c9cb5",
+      "status": "paid"
+    },
+    {
+      "id": "a4560d1a-9f39-4028-833f-60bf414fa9b8",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": false,
+      "createdAt": "2026-09-10T16:53:14.578Z",
+      "orderId": "246c32bf-e983-4dd1-9ec6-41e70d2e2bea"
+    },
+    {
+      "id": "c7b8eabd-886a-4f9c-ba0c-a69696ba98be",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Inspection Completed",
+      "message": "Your crop has been inspected. Your request is now under processing.",
+      "read": false,
+      "createdAt": "2026-09-10T16:53:33.210Z",
+      "orderId": "246c32bf-e983-4dd1-9ec6-41e70d2e2bea",
+      "status": "inspected"
+    },
+    {
+      "id": "4574b268-a2ea-4f97-a81a-65ba82b1452c",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Accepted",
+      "message": "Good news! Your crop request has been accepted.",
+      "read": false,
+      "createdAt": "2026-09-10T16:53:34.246Z",
+      "orderId": "246c32bf-e983-4dd1-9ec6-41e70d2e2bea",
+      "status": "accepted"
+    },
+    {
+      "id": "3e5020af-3462-41a9-a3be-2536fd434793",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Payment Completed",
+      "message": "Your payment has been completed successfully.",
+      "read": false,
+      "createdAt": "2026-09-10T16:53:39.445Z",
+      "orderId": "246c32bf-e983-4dd1-9ec6-41e70d2e2bea",
+      "status": "paid"
+    },
+    {
+      "id": "0072a50c-9bf4-43db-b514-08de4ca47b98",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": false,
+      "createdAt": "2026-09-10T16:55:29.420Z",
+      "orderId": "51837545-71d9-43bb-958a-b98476586461"
+    },
+    {
+      "id": "b9d71f5b-d9a5-44ab-b37f-031063df69a2",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": false,
+      "createdAt": "2026-09-10T16:58:13.342Z",
+      "orderId": "767500d4-17ca-40d3-bb85-e59c7f54b905"
+    },
+    {
+      "id": "b6e46bb9-ec62-4758-b9e8-15252867ca42",
+      "userId": "bcac5d2b-4a42-4d41-9872-8b340fa2491f",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": false,
+      "createdAt": "2026-09-11T13:33:32.541Z",
+      "orderId": "14571c96-491a-4236-860e-ba25d7f3e1f0"
+    },
+    {
+      "id": "9d2734d6-c1b8-4769-83b9-7b8ed216c427",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": true,
+      "createdAt": "2026-09-11T13:35:30.662Z",
+      "orderId": "0a0ba83c-f784-482a-a396-09d9ac4cd184"
+    },
+    {
+      "id": "4e0e899e-8a1a-417a-bbd9-fd0dcf9e7f85",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "title": "Crop Inspection Completed",
+      "message": "Your crop has been inspected. Your request is now under processing.",
+      "read": true,
+      "createdAt": "2026-09-11T13:37:03.495Z",
+      "orderId": "0a0ba83c-f784-482a-a396-09d9ac4cd184",
+      "status": "inspected"
+    },
+    {
+      "id": "73e705c2-06fe-4a9b-ac7f-f4f0eeab8323",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "title": "Crop Request Accepted",
+      "message": "Good news! Your crop request has been accepted.",
+      "read": true,
+      "createdAt": "2026-09-11T13:37:06.184Z",
+      "orderId": "0a0ba83c-f784-482a-a396-09d9ac4cd184",
+      "status": "accepted"
+    },
+    {
+      "id": "f8844665-777a-450a-8ff3-2080f55afa52",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "title": "Payment Completed",
+      "message": "Payment of ₹5165.00 has been completed successfully.",
+      "read": true,
+      "createdAt": "2026-09-11T13:37:36.189Z",
+      "orderId": "0a0ba83c-f784-482a-a396-09d9ac4cd184",
+      "status": "paid"
+    },
+    {
+      "id": "0cd362f9-4fac-418f-a518-eedf843fb53f",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "title": "Crop Request Submitted",
+      "message": "Your crop request has been submitted successfully. Please select a procurement center and appointment slot.",
+      "read": false,
+      "createdAt": "2026-09-11T14:20:49.787Z",
+      "orderId": "bab4db42-5ae8-408e-85a2-e5e74e8c275b"
+    },
+    {
+      "id": "03928bc1-c534-4d8e-bc4b-62be596aa480",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "title": "Crop Inspection Completed",
+      "message": "Your crop has been inspected. Your request is now under processing.",
+      "read": false,
+      "createdAt": "2026-09-11T14:21:09.701Z",
+      "orderId": "bab4db42-5ae8-408e-85a2-e5e74e8c275b",
+      "status": "inspected"
+    },
+    {
+      "id": "87180217-e01c-4dd1-be4d-77e074306798",
+      "userId": "bb0a25f0-53f3-4deb-93d9-f13438f851e6",
+      "title": "Crop Request Accepted",
+      "message": "Good news! Your crop request has been accepted.",
+      "read": false,
+      "createdAt": "2026-09-11T14:21:10.651Z",
+      "orderId": "bab4db42-5ae8-408e-85a2-e5e74e8c275b",
+      "status": "accepted"
+    }
+  ]
+}
